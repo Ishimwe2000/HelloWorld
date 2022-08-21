@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ishimwe2000/HelloWorld/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -33,8 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-*I encountered syntax errors as I am unfamiliar with Kotlin.
-*I tried to implement a sound effect to the Say Hellp button eventCLickListener but was unable to. I uploaded a sample mp3 file into the res/raw directory and tried to reference that in 
+* I encountered syntax errors as I am unfamiliar with Kotlin.
+* I tried to implement a sound effect to the Say Hellp button eventCLickListener but was unable to. I uploaded a sample mp3 file into the res/raw directory and tried to reference that in 
 the Mediaplayer in the main activity but Mediaplayer was not being recognized, even after importing it. 
 
 ## License
